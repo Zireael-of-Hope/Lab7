@@ -1,0 +1,15 @@
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\bin\Debug\net6.0\Lab7_Sharp.exe
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\bin\Debug\net6.0\Lab7_Sharp.deps.json
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\bin\Debug\net6.0\Lab7_Sharp.runtimeconfig.json
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\bin\Debug\net6.0\Lab7_Sharp.dll
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\bin\Debug\net6.0\ref\Lab7_Sharp.dll
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\bin\Debug\net6.0\Lab7_Sharp.pdb
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\obj\Debug\net6.0\Lab7_Sharp.csproj.AssemblyReference.cache
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\obj\Debug\net6.0\Lab7_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\obj\Debug\net6.0\Lab7_Sharp.AssemblyInfoInputs.cache
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\obj\Debug\net6.0\Lab7_Sharp.AssemblyInfo.cs
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\obj\Debug\net6.0\Lab7_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\obj\Debug\net6.0\Lab7_Sharp.dll
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\obj\Debug\net6.0\ref\Lab7_Sharp.dll
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\obj\Debug\net6.0\Lab7_Sharp.pdb
+C:\Users\clark\source\repos\Lab7_Sharp\Lab7_Sharp\obj\Debug\net6.0\Lab7_Sharp.genruntimeconfig.cache
