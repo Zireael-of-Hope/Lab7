@@ -7,6 +7,8 @@ using namespace std;
 
 int main()
 {
+    setlocale(LC_ALL, "RUS");
+
     ClassLab7 class1, class2;
     int ref(5), ptr(6);
 
@@ -14,20 +16,20 @@ int main()
 
     //Возврат по ссылке
     //Использование this в методе
-    cout << class1.return_ref_var(ref) << endl;
+    cout << "Возврат через ссылку: " << class1.return_ref_var(ref) << endl;
     //Возврат через указатель
     //Использование this в методе
-    cout << class1.return_pointer_var(&ptr) << endl;
+    cout << "Возврат через указатель: " << class1.return_pointer_var(&ptr) << endl;
     //Возврат private поля через дружественную функцию класса
-    cout << return_private_data(class1) << endl;
+    cout << "Возврат private поля через дружественную функцию класса: " << return_private_data(class1) << endl;
 
     //Перегрузка префиксного инкримента
     class2 = ++class1;
-    cout << return_private_data(class2) << " " << return_private_data(class1) << endl;
+    cout << "class2 = ++class1: class2:" << return_private_data(class2) << " class1" << return_private_data(class1) << endl;
 
     //Перегрузка постфиксного инкримента
     class2 = class1++;
-    cout << return_private_data(class2) << " " << return_private_data(class1) << endl;
+    cout << "class2 = class1++: class2:" << return_private_data(class2) << " class1" << return_private_data(class1) << endl;
 
     ClassLab7 string;
 

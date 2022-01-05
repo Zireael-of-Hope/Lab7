@@ -14,6 +14,7 @@ public:
 	ClassLab7();
 	int return_ref_var(int& variable);
 	int return_pointer_var(int* variable);
+
 	friend int return_private_data(ClassLab7& a);
 
 	ClassLab7 operator +(const ClassLab7& other);
